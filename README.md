@@ -66,13 +66,13 @@ This JavaScript utility estimates the **transaction fee** and total debit when s
 ## How it Works
 
 1. Prompts the user to enter the amount they want to send.
-2. Calculates the fee with the cap/min applied.
+2. Calculate the fee with the cap/min applied.
 3. Displays:
    - Amount to send
    - Transaction fee
    - Total amount to be debited
 
-
+Author-Kimei Jane
 
 
 
